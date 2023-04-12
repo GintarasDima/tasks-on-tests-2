@@ -21,3 +21,4 @@ for visit in geologs:
             filtered_geologs.append(visit)
 
 print(filtered_geologs)
+# немного изменено
